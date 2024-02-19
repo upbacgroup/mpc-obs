@@ -1,7 +1,7 @@
 {
-    "acados_include_path": "/drone_master_thesis/acados/include",
-    "acados_lib_path": "/drone_master_thesis/acados/lib",
-    "code_export_directory": "/drone_master_thesis/ros/src/offboard_py/scripts/c_generated_code",
+    "acados_include_path": "/mpc-obs/acados/include",
+    "acados_lib_path": "/mpc-obs/acados/lib",
+    "code_export_directory": "/mpc-obs/ros/src/offboard_py/scripts/c_generated_code",
     "constraints": {
         "C": [],
         "C_e": [],

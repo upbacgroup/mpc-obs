@@ -1,4 +1,4 @@
 #!/bin/bash
 
-git config --global user.name "Max Pape"
-git config --global user.email maxpape@mail.uni-paderborn.de
+git config --global user.name "J. Betancourt"
+git config --global user.email julio.betancourt@uni-paderborn.de
